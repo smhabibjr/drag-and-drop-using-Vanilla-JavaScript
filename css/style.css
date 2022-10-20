@@ -6,7 +6,7 @@
       .column {
         flex-basis: 20%;
         background: #ddd;
-        min-height: 90vh;
+        min-height: 80vh;
         padding: 20px;
         border-radius: 10px;
       }
